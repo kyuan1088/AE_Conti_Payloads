@@ -1,4 +1,0 @@
-*.txt text
-crlf		text
--crlf		-text
-crlf=input	eol=lf
